@@ -1,0 +1,4 @@
+normal chips
+double stacking
+black dots
+number
