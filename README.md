@@ -11,7 +11,7 @@ We used Anaconda for python virtual environment management.
 After cloning the repo locally, run the following command to install all dependancies in virtual environment:  
 `pip install -r requirements.txt`
 
-Clone the labelImg repo from [here](https://github.com/tzutalin/labelImg). Follow the instructions to install, and proceed to draw bounding boxes on the chips.
+Clone [labelImg](https://github.com/tzutalin/labelImg), a python based image annotions tool. Follow the instructions to install, and proceed to draw bounding boxes on the chips.
 
 #### Open Issues
 
@@ -24,6 +24,8 @@ Please see the following issues regarding different config issues encountered:
 [#25138](https://github.com/tensorflow/tensorflow/issues/25138) Limit GPU memory on tensorflow (closed, jan-21)
 
 #### References
+
+- Sample [detection](https://stackoverflow.com/questions/39689938/python-opencv2-counting-contours-of-colored-object)
 
 - [darknet13][1], Joseph Redmon, Darknet: Open source Neural Networks in C, 2013 - 2016
 
